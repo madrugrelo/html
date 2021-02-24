@@ -1,0 +1,10 @@
+﻿# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Web designer: Madrugrelo
+Twitter: @madrugrelo
+/* SITE */
+Last update:2021/02/24
+Doctype:HTML5
+IDE: Notepad++.
