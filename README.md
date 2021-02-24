@@ -9,7 +9,7 @@
 HTML Basic Example for Developers.
 
 ## Examples
-HTML Basic [HTML](https://starthtml.netlify.app)
+[HTML Basic](https://starthtml.netlify.app)
 
 ## Contributing
 
