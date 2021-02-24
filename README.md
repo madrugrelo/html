@@ -6,7 +6,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 ## About HTML 
-HTML Basic Example.
+HTML Basic Example for Developers.
 
 ## Contributing
 
