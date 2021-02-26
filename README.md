@@ -8,7 +8,7 @@
 ## About HTML 
 HTML Basic Example for Developers.
 
-## Examples
+## Example Online
 [HTML Basic](https://starthtml.netlify.app)
 
 ## Contributing
